@@ -1,2 +1,2 @@
 # Ejercicio_Prueba
-Practicando con Git, control de versiones.
+Practicando con Git, mi primer commit.
