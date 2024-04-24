@@ -1,2 +1,2 @@
 main :: IO ()
-main = putStrLn "Ejercicio Prueba"
+main = putStrLn "Ejercicio Prueba" 
